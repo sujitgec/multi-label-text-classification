@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/suk/Desktop/mls/news_classification/text_classification_using_gans_hans/checkpoint/training_1/cp.ckpt"
+all_model_checkpoint_paths: "/home/suk/Desktop/mls/news_classification/text_classification_using_gans_hans/checkpoint/training_1/cp.ckpt"
